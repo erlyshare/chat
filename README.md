@@ -1,4 +1,4 @@
-chat
+qqqchat
 =====
 
 An OTP application
